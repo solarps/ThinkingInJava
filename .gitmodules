@@ -1,0 +1,6 @@
+[submodule "Factorial"]
+	path = Factorial
+	url = https://github.com/ibrus/ThinkingInJava.git
+[submodule "Matches"]
+	path = Matches
+	url = https://github.com/ibrus/ThinkingInJava.git
